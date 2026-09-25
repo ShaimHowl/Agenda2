@@ -12,7 +12,10 @@ public class Main {
         System.out.println("  4. Eliminar un contacto existente.");
         System.out.println("  5. Salir.");
 
+        System.out.print("Escoge una opcion ");
+        int opcion = sc.nextInt();
 
+        System.out.println("Has escogido el numero: " + opcion);
 
 
 
