@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Escoge una opcion ");
         int opcion = sc.nextInt();
 
-        System.out.println("Has escogido el numero: " + opcion);
+        System.out.println("Has escogido el numero " + opcion);
 
 
 
